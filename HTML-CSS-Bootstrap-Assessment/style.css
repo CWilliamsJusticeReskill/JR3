@@ -1,0 +1,15 @@
+.blog {
+  align-self: center;
+}
+.container h1 {
+  align-items: center;
+}
+h1 {
+  color: #10828c;
+}
+.container.row {
+  justify-content: space-evenly;
+}
+#nav1 {
+  text-decoration-color: honeydew;
+}
